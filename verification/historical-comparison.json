@@ -1,0 +1,55 @@
+[
+  {
+    "file": "Step1_熵权TOPSIS结果.xlsx",
+    "historicalSheets": [
+      "综合得分_长格式",
+      "指标权重"
+    ],
+    "regeneratedSheets": [
+      "指标权重",
+      "综合得分_宽格式",
+      "综合得分_长格式",
+      "时序统计描述"
+    ],
+    "exactWorkbookReproduction": false,
+    "reason": "Historical workbook schema differs from the output of the supplied current scripts.",
+    "matchedRows": 248,
+    "matchingColumns": {
+      "TOPSIS综合得分": {
+        "maxAbsoluteDifference": 0.3199962554509398,
+        "cellsWithin1e-8": 0
+      }
+    }
+  },
+  {
+    "file": "Step2_时空特征分析结果.xlsx",
+    "historicalSheets": [
+      "全国时序",
+      "区域对比",
+      "2015年排名",
+      "2022年排名"
+    ],
+    "regeneratedSheets": [
+      "时序统计描述",
+      "区域对比",
+      "省域排名变化",
+      "维度时序得分",
+      "完整得分数据"
+    ],
+    "exactWorkbookReproduction": false,
+    "reason": "Historical workbook schema differs from the output of the supplied current scripts."
+  },
+  {
+    "file": "Step3_Dagum基尼系数分解结果.xlsx",
+    "historicalSheets": [
+      "Sheet1"
+    ],
+    "regeneratedSheets": [
+      "年度分解结果",
+      "各区域区内基尼系数",
+      "统计描述"
+    ],
+    "exactWorkbookReproduction": false,
+    "reason": "Historical workbook schema differs from the output of the supplied current scripts."
+  }
+]

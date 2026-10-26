@@ -1,0 +1,46 @@
+{
+  "identity": "SYNTHETIC DEMO — NOT OBSERVED DATA",
+  "rows": 248,
+  "years": [
+    2015,
+    2022
+  ],
+  "indicators": 14,
+  "seed": 20261026,
+  "meanTrend": [
+    {
+      "year": 2015,
+      "score": 0.44723
+    },
+    {
+      "year": 2016,
+      "score": 0.467217
+    },
+    {
+      "year": 2017,
+      "score": 0.469884
+    },
+    {
+      "year": 2018,
+      "score": 0.499905
+    },
+    {
+      "year": 2019,
+      "score": 0.504166
+    },
+    {
+      "year": 2020,
+      "score": 0.522487
+    },
+    {
+      "year": 2021,
+      "score": 0.528083
+    },
+    {
+      "year": 2022,
+      "score": 0.559105
+    }
+  ],
+  "analysisStatus": "PASS",
+  "scientificValidityAssessed": false
+}

@@ -1,0 +1,26 @@
+{
+  "browser": "Installed Chrome, headless isolated contexts",
+  "route": "/rural-revitalization-research/",
+  "checks": [
+    {
+      "width": 1440,
+      "status": 200,
+      "syntheticNotice": true,
+      "imageLoaded": true,
+      "horizontalOverflow": false,
+      "scriptErrors": [],
+      "httpFailures": [],
+      "externalRequests": []
+    },
+    {
+      "width": 390,
+      "status": 200,
+      "syntheticNotice": true,
+      "imageLoaded": true,
+      "horizontalOverflow": false,
+      "scriptErrors": [],
+      "httpFailures": [],
+      "externalRequests": []
+    }
+  ]
+}

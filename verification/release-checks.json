@@ -1,0 +1,22 @@
+{
+  "sourceZipFiles": 78,
+  "originalPythonScripts": 21,
+  "includedHistoricalWorkbooks": 6,
+  "includedHistoricalFigures": 16,
+  "excludedUntraceableMaps": 3,
+  "rawDataBundled": false,
+  "privatePapersBundled": false,
+  "sourceSyntaxParsed": 25,
+  "sourcePrivacyPatternFindings": 0,
+  "workbookPrivacyPatternFindings": 0,
+  "workbookExternalLinks": 0,
+  "historicalWorkbooksByteIdentical": true,
+  "originalInputCoreSteps": "3/3 software exit success, historical results NOT reproduced",
+  "syntheticFullSteps": "11/11 software exit success",
+  "browserWidths": [
+    1440,
+    390
+  ],
+  "pagesRemoteVerified": false,
+  "originalProjectSafeToDelete": false
+}

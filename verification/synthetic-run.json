@@ -1,0 +1,87 @@
+{
+  "createdAtUTC": "2026-10-26T10:50:46.302888+00:00",
+  "dataIdentity": "synthetic-schema-demonstration-not-observed-data",
+  "inputSha256": "ef0307de63230a9443ce5f9d7ccf751b379154e301a6773e257ea7605fc6c0dd",
+  "steps": [
+    {
+      "id": "1",
+      "script": "step1_entropy_topsis.py",
+      "scriptSha256": "5ed91ca9fbd4964132128d2f8aa86bd9440ccbe1f50d43b7c6f7d8b627294dd2",
+      "exitCode": 0,
+      "status": "PASS"
+    },
+    {
+      "id": "2",
+      "script": "step2_spatial_temporal.py",
+      "scriptSha256": "5e256700b6162815407aa58b76c29118f5cd274d154a9f6b742fbef18a147069",
+      "exitCode": 0,
+      "status": "PASS"
+    },
+    {
+      "id": "3",
+      "script": "step3_dagum_gini.py",
+      "scriptSha256": "67ba162940c4d840e50f757ec6a51b603636ac9f7c043950307abe7beb8d4caa",
+      "exitCode": 0,
+      "status": "PASS"
+    },
+    {
+      "id": "4",
+      "script": "step4_panel_regression.py",
+      "scriptSha256": "074be4b6aec1ba88846d284e89e90bc98057909eaf11d73fec6d1d83719aa1c6",
+      "exitCode": 0,
+      "status": "PASS"
+    },
+    {
+      "id": "5",
+      "script": "step5_robustness.py",
+      "scriptSha256": "92bd433cebf63ba19df0c09fa45b2a1d0b263c85076d9f489f0095815e9325b6",
+      "exitCode": 0,
+      "status": "PASS"
+    },
+    {
+      "id": "6",
+      "script": "step6_heterogeneity_regression.py",
+      "scriptSha256": "fff6512877459c63a7b131bdf82e4c3deb3b15ef35d52fa4fb4e421bd1ee6f21",
+      "exitCode": 0,
+      "status": "PASS"
+    },
+    {
+      "id": "7a",
+      "script": "step7_1_robustness_alternative_dv.py",
+      "scriptSha256": "2bfbceec382b2e06ef9b0b69d9e4eaff5b7745babef01e28a81d390fc0a12511",
+      "exitCode": 0,
+      "status": "PASS"
+    },
+    {
+      "id": "7b",
+      "script": "step7_4_robustness_alternative_method.py",
+      "scriptSha256": "186464427b568dfbe5d0b0ab1164fe6a164e4b20aadf41a2b2ade31ddb5ef289",
+      "exitCode": 0,
+      "status": "PASS"
+    },
+    {
+      "id": "8",
+      "script": "Step8_空间计量分析.py",
+      "scriptSha256": "718b97513e0b0c438b91495eeb53d34f6abf3accadf5603e31dc88d5b480e063",
+      "exitCode": 0,
+      "status": "PASS"
+    },
+    {
+      "id": "9",
+      "script": "Step9_收敛性分析.py",
+      "scriptSha256": "ceea8e995d697cfa441cff5cdbbf42026a055c3f5da3f7ecd9943d56da864f72",
+      "exitCode": 0,
+      "status": "PASS"
+    },
+    {
+      "id": "10",
+      "script": "Step10_障碍度诊断.py",
+      "scriptSha256": "5d5cdb8e55b9f51d16cd392bb87baf762b32e902e4e1fca92311554fd903fb2f",
+      "exitCode": 0,
+      "status": "PASS"
+    }
+  ],
+  "scientificValidityAssessed": false,
+  "notice": "软件运行状态不等于数据、方法、因果效应或论文结论得到新验证。",
+  "status": "PASS"
+}
